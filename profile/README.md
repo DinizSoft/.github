@@ -49,7 +49,7 @@ Fundada em 1998 a DinizSoft é uma empresa de desenvolvimento de software focada
 
 #### Fones
  * (18) 98145-4666 - **WhatsAPP**
- * (18) 99702-1427 - **Apenas Ligação**
+ * (18) 99702-1427 - **Apenas Ligações**
  * (18) 98114-9632 - **Comercial**
 
 #### Responsável pelos Dados (LGPD)
