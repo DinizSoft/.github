@@ -25,30 +25,31 @@ Ir para:
 ## Nossas Soluções
 ### NFe - Nota Fiscal Eletrônica
   * Sistema para emissão de Nota Fiscal Eletrônica.
-  * **Integrado com MDF-e (Manifesto Eletrônico).**
   * Arquivo XML enviado automaticamente para o contador.
+  * `Integrado com MDF-e (Manifesto Eletrônico).`
   
 ### CTe - Conhecimento de Transporte
   * Sistema para emissão de Conhecimento de Transportes Eletrônico de Cargas.
-  * **Integrado com MDF-e (Manifesto Eletrônico).**
   * Arquivo XML enviado automaticamente para o contador.
+  * `Integrado com MDF-e (Manifesto Eletrônico).`
 
 ### MDFe - Manifesto Eletrônico
   * Sistema para emissão de Menifesto Eletrônico de Cargas.
-  * **Integrado com CTe e NFe.**
   * Arquivo XML enviado automaticamente para o contador.
+  * `Integrado com CTe e NFe.`
 
 ### Cupom Fiscal
   * Sistema para a emissão de Cupons Fiscais.
-  * **Adequado para SAT (São Paulo).**
   * Arquivo XML enviado automaticamente para o contador.
+  * `Adequado para SAT (São Paulo).`
 
 ### Gestão de Empresas
   * Sistema para a Gestão de Pequenas Empresas.
-  * **Integrado com Sistemas Fiscais.**
+  * `Integrado com Sistemas Fiscais.`
 
 ### Apps e Web
-  * Desenvolvimentos de APPS e WEB para Android e IOS.
+  * Desenvolvimento de Apps para `Android` e `iOS`.
+  * Desenvolvimento de `PWA's`.
 
 ## Contato
 #### Localização
