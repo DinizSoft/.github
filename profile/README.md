@@ -39,3 +39,20 @@ Fundada em 1998 a DinizSoft é uma empresa de desenvolvimento de software focada
 
 ### Apps e Web
   * Desenvolvimentos de APPS e WEB para Android e IOS.
+
+## Contato
+#### Localização
+ * Dracena/SP
+
+#### Email
+ * contato@dinizsoft.com.br
+
+#### Fones
+ * (18) 98145-4666 - **WhatsAPP**
+ * (18) 99702-1427 - **Apenas Ligação**
+ * (18) 98114-9632 - **Comercial**
+
+#### Responsável pelos Dados (LGPD)
+ * Paulo Sérgio Diniz
+ * Fone: (18) 98114-9632
+ * E-mail: paulo@dinizsoft.com.br
