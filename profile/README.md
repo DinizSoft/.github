@@ -9,9 +9,9 @@ Fundada em 1998 a DinizSoft é uma empresa de desenvolvimento de software focada
 
  * [Repositório Suporte](https://github.com/DinizSoft/Suporte)
  * [Nosso WebSite](http://www.dinizsoft.com.br)
- * [Eixos de Trabalho](https://github.com/DinizSoft#eixos-de-trabalho)
- * [Nossas Soluções](https://github.com/DinizSoft#nossas-solu%C3%A7%C3%B5es)
- * [Contato](https://github.com/DinizSoft#contato)
+ * [Eixos de Trabalho](#eixos-de-trabalho)
+ * [Nossas Soluções](#nossas-solu%C3%A7%C3%B5es)
+ * [Contato](#contato)
  
  ---
  
